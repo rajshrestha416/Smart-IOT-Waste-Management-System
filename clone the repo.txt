@@ -1,0 +1,7 @@
+///////////////////////////////////
+-After you accept the invite, click on Fork on Top Right part
+-Let it refresh, then click on clone and copy the link.
+-After, that choose the drive under which you will working on this project,
+ right click and select open gitbash here
+-now type git clone (paste the copied link)
+-aba smart iot bhanne folder aucha hola ani esmai push garne.
